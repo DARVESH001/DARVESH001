@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DARVESH001
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science from christ university 
+- 💞️ I’m looking for collabration
 - 📫 How to reach me darveshsingh001@gmail.com,darvesh.bansal@msds.christuniversity.in
 
 <!---
