@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning data science from christ university 
 - 💞️ I’m looking for collabration
-- 📫 How to reach me darveshsingh001@gmail.com,darvesh.bansal@msds.christuniversity.in
+- 📫 How to reach me darveshbansal748@gmail.com,darvesh.bansal@msds.christuniversity.in
 
 <!---
 DARVESH001/DARVESH001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
